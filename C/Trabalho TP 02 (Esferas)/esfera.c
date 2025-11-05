@@ -3,7 +3,7 @@
 #include "esfera.h"
 
 
-void defineEsfera() {
+Esfera* defineEsfera() {
     char continuar;
     Esfera* e;
 
